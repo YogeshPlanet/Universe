@@ -91,6 +91,7 @@ body {
 
 #second-planet {
   /* background-color: red; */
+  box-shadow: 0 0 20px rgb(35, 36, 35), 0 0 10px rgb(83, 83, 83);
   animation: secondPlanetRender 12s  infinite linear;
 }
 #second-planet:after {
@@ -99,6 +100,7 @@ body {
 
 #third-planet {
   /* background-color: green; */
+  box-shadow: 0 0 20px rgb(18, 19, 17), 0 0 10px rgb(9, 22, 3);
   animation: thirdPlanetRender 12s  infinite linear;
 }
 #third-planet:after {
